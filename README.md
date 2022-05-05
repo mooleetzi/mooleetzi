@@ -9,6 +9,10 @@ email: 13208308200@163.com
 
 1. [2021 Pingcap tinykv 分布式存储训练营 第 4 名](https://asktug.com/t/topic/393068)
 
+### recent focus
+
+static analysis
+
 ### learnt course
 
 1. [MIT 6.830](#mit-6830)
