@@ -7,16 +7,18 @@ email: 13208308200@163.com
 
 ### award
 
-1. [2021 'Pingcap tinykv 分布式存储训练营 第 4 名'](https://asktug.com/t/topic/393068)
+1. [2021 Pingcap tinykv 分布式存储训练营 第 4 名](https://asktug.com/t/topic/393068)
 
 ### learnt course
 
-1. MIT 6.824
-2. MIT 6.830
-3. MIT 6.S081
-4. PingCAP Tinykv
+1. [MIT 6.824](#mit-6824)
+2. [MIT 6.830](#mit-6830)
+3. [MIT 6.S081](#mit-6s081)
+4. [PingCAP Tinykv](#tinykv)
 
 #### MIT 6.824
+
+to be updating
 
 #### MIT 6.830
 
@@ -32,3 +34,9 @@ email: 13208308200@163.com
 6. 完成了 B+树索引模块,支持查询,插入删除,以及页合并,页分裂的特性。
 
 #### MIT 6.S081
+
+to be updating
+
+#### TinyKV
+
+to be updating
