@@ -11,7 +11,7 @@ email: 13208308200@163.com
 
 ### recent focus
 
-matrixone&tinysql
+matrixone&tinysql&tcp cc
 
 ### learnt course
 
